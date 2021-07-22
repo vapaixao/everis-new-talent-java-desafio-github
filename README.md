@@ -4,6 +4,6 @@ Everis New Talents Java bootcamp challenge invites the studant to create his own
 
 ## Links
 
-[Sintaxe Basica Markdown](markdownguide.org/basic-syntax/)
+[Markdown basic syntax](markdownguide.org/basic-syntax/)
 
-[Github basics commands](https://comandosgit.github.io/)
+[Github basic commands](https://comandosgit.github.io/)
